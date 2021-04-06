@@ -4,6 +4,8 @@ Google Cloud Speech-to-Text と DeepLを使用して、リアルタイムに音�
 
 ZOOMなどに映像を流すために、OSCでテキストと翻訳結果をtouchDesigner/Telop.toeに送信して、カメラ映像にテロップとして被せる。
 
+
+
 ## 動作環境
 * Win10
 * SoX
@@ -14,6 +16,8 @@ ZOOMなどに映像を流すために、OSCでテキストと翻訳結果をtouc
 
 
 ![Capture](./sttcap.jpg)
+
+
 見ての通りそんなにうまくいっていない。
 しゃべりだしや相づちとかが苦手のよう。
 
