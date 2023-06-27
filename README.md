@@ -2,7 +2,7 @@
 
 Google Cloud Speech-to-Text と DeepLを使用して、リアルタイムに音声→テキスト→翻訳するテスト。
 
-ZOOMなどに映像を流すために、OSCでテキストと翻訳結果をtouchDesigner/Telop.toeに送信して、カメラ映像にテロップとして被せる。
+ZOOMなどに映像を流すために、OSCでテキストと翻訳結果をTouchDesigner/Telop.toeに送信して、カメラ映像にテロップとして被せる。
 
 
 
